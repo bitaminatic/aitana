@@ -1,0 +1,30 @@
+
+        body{
+            background-color: #D6E8DB;
+        }
+        h1{
+            color: #3C6255;
+            font-size: 3em;
+        }
+        h2{
+            color: #61876E;
+        }
+ .viatge{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #212A3E;
+ }
+ .flora{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ p.italic{
+    font-style: italic;
+ }
+.caixa1{
+    background-color: #C1D0B5;
+    color: #000000;
+    border: 5px solid #3C6255;
+    height: 300px;
+    padding: 50px 20px 0px 20px;
+    margin: 20px 20px ;
+    display: inline-block;
+}
